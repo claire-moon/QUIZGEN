@@ -18,7 +18,7 @@ This project is a simple terminal application that generates trendy and humorous
 ### Project Structure
 
 ```
-quiz-generator
+quizgen
 ├── src
 │   ├── main.py          # Entry point of the application
 │   ├── llm              # Package for LLM interaction
