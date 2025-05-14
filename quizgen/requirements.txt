@@ -1,0 +1,19 @@
+quizgen
+├── src
+│   ├── main.py
+│   ├── llm
+│   │   ├── __init__.py
+│   │   └── model.py
+│   ├── quiz
+│   │   ├── __init__.py
+│   │   ├── generator.py
+│   │   └── formatter.py
+│   ├── image
+│   │   ├── __init__.py
+│   │   └── searcher.py
+│   └── utils
+│       ├── __init__.py
+│       └── io.py
+├── requirements.txt
+├── .env
+└── README.md
