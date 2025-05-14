@@ -1,0 +1,1 @@
+Generates quizzes. Kind of like magic.
